@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\code challenge 7\\Question 2\\Question 2\\Question 2.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\assigment\\code challenge 7\\Question 2\\Question 2\\Question 2.csproj",
       "projectName": "Question 2",
-      "projectPath": "C:\\Users\\HP\\Desktop\\code challenge 7\\Question 2\\Question 2\\Question 2.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\assigment\\code challenge 7\\Question 2\\Question 2\\Question 2.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\code challenge 7\\Question 2\\Question 2\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\assigment\\code challenge 7\\Question 2\\Question 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
